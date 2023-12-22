@@ -1,3 +1,5 @@
+# Password Generator
+
 ## Opis
 
 Repozytorium PasswordGenerator-React zawiera aplikację do generowania haseł, opartą na technologiach React i Bootstrap. Aplikacja umożliwia użytkownikowi dostosowanie preferencji generowanego hasła, takich jak długość, małe litery, duże litery, cyfry i znaki specjalne. Dodatkowo, użytkownik może generować haseł w nieskończoność i jednym kliknięciem dodać hasło do schowka.
